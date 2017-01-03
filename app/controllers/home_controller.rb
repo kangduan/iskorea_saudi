@@ -24,12 +24,9 @@ class HomeController < ApplicationController
 
             redirect_to "/"
   end
-
-
   def about
   end
   def product
-
   end
 
 
