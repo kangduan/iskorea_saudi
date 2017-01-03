@@ -955,7 +955,7 @@
   }
   */
   #recruit-section .tab-pane{
-    font-size: 9px;
+    font-size: 8px;
   }
   #recruit-section li{
     font-size: 9px;
@@ -1000,8 +1000,7 @@
   }
 
   #footer .family {
-      /*float: left;*/
-      align:center;
+      float: left;
       margin-bottom: 10px;
       width: 100%;
   }
@@ -1011,8 +1010,7 @@
 
   }
   #footer .join {
-      /*float: left;*/
-      align:center;
+      float: left;
       margin-bottom: 10px;
       width: 100.0000%;
   }
