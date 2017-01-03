@@ -247,8 +247,11 @@ background: #f7f4f4 url('../../img/pat-bg.png') repeat;
 
 /* === To Top === */
 .scrolltotop {
+	color: #ff8300;
+	border: 2px solid #ff8300;
+}
+.scrolltotop i{
 	color: #0004ff;
-	border: 2px solid #0004ff;
 }
 .scrolltotop:hover{
 	color: #0004ff;
