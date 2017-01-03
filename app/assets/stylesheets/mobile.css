@@ -1000,7 +1000,8 @@
   }
 
   #footer .family {
-      float: left;
+      /*float: left;*/
+      align:center;
       margin-bottom: 10px;
       width: 100%;
   }
@@ -1010,7 +1011,8 @@
 
   }
   #footer .join {
-      float: left;
+      /*float: left;*/
+      align:center;
       margin-bottom: 10px;
       width: 100.0000%;
   }
