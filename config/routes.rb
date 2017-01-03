@@ -6,4 +6,5 @@ post 'home/write'
 get 'home/index'
 get 'home/about'
 get 'home/product'
+
 end
