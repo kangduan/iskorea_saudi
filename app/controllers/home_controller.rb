@@ -29,33 +29,9 @@ class HomeController < ApplicationController
   def about
   end
   def product
-    @posts = Post.all
-  end
-  def board
 
-      post = Post.new
-      post.title = params[:title]
-      post.content = params[:content]
-      post.save
-
-      redirect_to "/home/product#chat-section"
-  end
-  def reply_board
-
-      reply = Reply.new
-      reply.content = params[:content]
-      reply.post_id = params[:id_of_post]
-      reply.save
-
-      redirect_to "/home/product#chat-section"
   end
 
-  def index_vn
-  end
-  def about_vn
-  end
-  def product_vn
-  end
 
 
 end
