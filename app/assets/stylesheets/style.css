@@ -1280,46 +1280,6 @@ p.subtitle {
     margin: 0 0 11px;
 }
 
-/*slider css*/
-
-		.jssora11l, .jssora11r {
-				display: block;
-				position: absolute;
-				/* size of arrow element */
-				width: 37px;
-				height: 37px;
-				cursor: pointer;
-				background: url(../img/a11.png) no-repeat;
-				overflow: hidden;
-		}
-
-		.jssora11l { background-position: -11px -41px; }
-		.jssora11r { background-position: -71px -41px; }
-		.jssora11l:hover { background-position: -131px -41px; }
-		.jssora11r:hover { background-position: -191px -41px; }
-		.jssora11l.jssora11ldn { background-position: -251px -41px; }
-		.jssora11r.jssora11rdn { background-position: -311px -41px; }
-
-
-				.jssorb05 {
-						position: absolute;
-				}
-				.jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
-						position: absolute;
-						/* size of bullet elment */
-						width: 16px;
-						height: 16px;
-						background: url(../img/b05.png) no-repeat;
-						overflow: hidden;
-						cursor: pointer;
-				}
-				.jssorb05 div { background-position: -7px -7px; }
-				.jssorb05 div:hover, .jssorb05 .av:hover { background-position: -37px -7px; }
-				.jssorb05 .av { background-position: -67px -7px; }
-				.jssorb05 .dn, .jssorb05 .dn:hover { background-position: -97px -7px; }
-
-	/*recruitment*/
-
 	/* table */
 
 .table > thead > tr > th,
@@ -1705,6 +1665,7 @@ p.footer {
  * about-page history section Timeline
  * --------------------------------------------- */
  .timeline {
+	  display: block;
     list-style: none;
     padding: 20px 0;
     position: relative;
@@ -1953,7 +1914,7 @@ p.footer {
 	width:auto;
 	padding:5px 25px 5px 25px;
 	margin-left:0;
-	background:rgba(0,0,0,0.7);
+	background:rgba(255,255,255,0.7);
 }
 .carousel-indicators li {
 	border-radius:0;
@@ -1965,13 +1926,15 @@ p.footer {
 	width:10px;
 	height:10px;
 	/*blue color: #044fdb*/
-	background:#ff7200;
-	border-color:#ff7200;
+	background:#000000;
+	border-color:#000000;
+	/*background:#ff7200;*/
+	/*border-color:#ff7200;*/
 }
 
 .carousel-control {
 	/*background:	#47a447;*/
-	color:#fff;
+	color:#ffffff;
 	width:30px;
 	height:30px;
 	top:auto;
@@ -1980,7 +1943,8 @@ p.footer {
 	opacity:0.85;
 }
 .carousel-control:hover {
-    color: #0000ff;
+		color: #363940;
+    /*color: #0000ff;*/
 }
 .carousel-control.right {
 	right:10px;
