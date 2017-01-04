@@ -3,9 +3,9 @@ Rails.application.routes.draw do
 root 'home#index'
 post 'home/write'
 
-get 'home/index'
-get 'home/about'
-get 'home/product'
+get 'home/index_saudi'
+get 'home/about_saudi'
+get 'home/product_saudi'
 
 get 'home/index_qatar'
 get 'home/about_qatar'
