@@ -1,6 +1,6 @@
 require 'mailgun'
 class HomeController < ApplicationController
-  def index
+  def index_saudi
   end
   #email
   def write
@@ -24,9 +24,9 @@ class HomeController < ApplicationController
 
             redirect_to "/"
   end
-  def about
+  def about_saudi
   end
-  def product
+  def product_saudi
   end
 
 
