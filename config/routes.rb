@@ -7,4 +7,8 @@ get 'home/index'
 get 'home/about'
 get 'home/product'
 
+get 'home/index_qatar'
+get 'home/about_qatar'
+get 'home/product_qatar'
+
 end
