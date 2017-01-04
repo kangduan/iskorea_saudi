@@ -142,6 +142,11 @@ a, a:hover, a:focus {
 	background: #efeded url('../../img/pat-bg.png') repeat;
 	/*#f8f8f8*/
 }
+/*Qatar product section*/
+#excavator-section, #boomtruck-section{
+	background: #efeded url('../../img/pat-bg.png') repeat;
+	/*#f8f8f8*/
+}
 #vision2-section {
 background: #f7f4f4 url('../../img/pat-bg.png') repeat;
 
