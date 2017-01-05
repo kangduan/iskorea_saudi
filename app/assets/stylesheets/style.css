@@ -254,7 +254,9 @@ section {
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
-
+.navbar-default {
+	z-index: 9999;
+}
 .navbar-shrink {
 	z-index: 9999;
 	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
