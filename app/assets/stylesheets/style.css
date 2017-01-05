@@ -183,7 +183,6 @@ section {
 	transition: all 0.2s ease-in-out
 
 }
-/*
 .navbar-default .navbar-brand {
 	background-image: url(../img/logo/is-logo.png);
 }
@@ -196,7 +195,6 @@ section {
 .navbar-inverse .navbar-brand {
 	background-image: url(../img/logo/is-logo.png);
 }
-*/
 /* Navbar links */
 .navbar-nav > li > a {
 	padding: 24px 0;
