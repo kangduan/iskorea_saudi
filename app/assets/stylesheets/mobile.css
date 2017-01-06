@@ -868,27 +868,27 @@
   #manlift-section .col-md-6{
     float: left;
     margin-bottom: 10px;
-    width: 50%;
+    width: 100%;
   }
   #mobilecrane-section .col-md-6{
     float: left;
     margin-bottom: 10px;
-    width: 50%;
+    width: 100%;
   }
   #boom-section .col-md-6{
     float: left;
     margin-bottom: 10px;
-    width: 50%;
+    width: 100%;
   }
   #forklift-section .col-md-6{
     float: left;
     margin-bottom: 10px;
-    width: 50%;
+    width: 100%;
   }
   #wheel-section .col-md-6{
     float: left;
     margin-bottom: 10px;
-    width: 50%;
+    width: 100%;
   }
 
 }
