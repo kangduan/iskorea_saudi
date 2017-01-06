@@ -494,25 +494,40 @@
   margin-bottom: 10px;
   width: 50%;
 }
+#manlift-section table{
+font-size: 12px;
+}
 #mobilecrane-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
+}
+#mobilecrane-section table{
+font-size: 12px;
 }
 #boom-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
 }
+#boom-section table{
+font-size: 12px;
+}
 #forklift-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
 }
+#forklift-section table{
+font-size: 12px;
+}
 #wheel-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
+}
+#wheel-section table{
+font-size: 12px;
 }
 
 }
@@ -870,26 +885,41 @@
     margin-bottom: 10px;
     width: 100%;
   }
+  #manlift-section table{
+  font-size: 14px;
+}
   #mobilecrane-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
   }
+  #mobilecrane-section table{
+  font-size: 14px;
+}
   #boom-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
   }
+  #boom-section table{
+  font-size: 14px;
+}
   #forklift-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
   }
+  #forklift-section table{
+  font-size: 14px;
+}
   #wheel-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
   }
+  #wheel-section table{
+  font-size: 14px;
+}
 
 }
 
@@ -1093,7 +1123,6 @@
 
     font-size:25px;
   }
-
   /*product-page section*/
   #manlift-section .col-md-6{
     float: left;
