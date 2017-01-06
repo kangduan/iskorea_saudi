@@ -184,27 +184,27 @@
     }
 */
     /*product-page section*/
-    #car-section .col-md-6{
-      float: left;
-      margin-bottom: 10px;
-      width: 50%;
-    }
-    #pc-section .col-md-6{
-      float: left;
-      margin-bottom: 10px;
-      width: 50%;
-    }
-    #copy-section .col-md-6{
-      float: left;
-      margin-bottom: 10px;
-      width: 50%;
-    }
     #manlift-section .col-md-6{
       float: left;
       margin-bottom: 10px;
       width: 50%;
     }
-    #tmi-section .col-md-6{
+    #mobilecrane-section .col-md-6{
+      float: left;
+      margin-bottom: 10px;
+      width: 50%;
+    }
+    #boom-section .col-md-6{
+      float: left;
+      margin-bottom: 10px;
+      width: 50%;
+    }
+    #forklift-section .col-md-6{
+      float: left;
+      margin-bottom: 10px;
+      width: 50%;
+    }
+    #wheel-section .col-md-6{
       float: left;
       margin-bottom: 10px;
       width: 50%;
@@ -499,17 +499,17 @@
   margin-bottom: 10px;
   width: 50%;
 }
-#copy-section .col-md-6{
+#boom-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
 }
-#manlift-section .col-md-6{
+#forklift-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
 }
-#tmi-section .col-md-6{
+#wheel-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
@@ -865,27 +865,27 @@
     font-size:27px;
   }
   /*product-page section*/
-  #car-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 50%;
-  }
-  #pc-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 50%;
-  }
-  #copy-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 50%;
-  }
   #manlift-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 50%;
   }
-  #tmi-section .col-md-6{
+  #mobilecrane-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 50%;
+  }
+  #boom-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 50%;
+  }
+  #forklift-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 50%;
+  }
+  #wheel-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 50%;
@@ -1095,27 +1095,27 @@
   }
 
   /*product-page section*/
-  #car-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 100%;
-  }
-  #pc-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 100%;
-  }
-  #copy-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 100%;
-  }
   #manlift-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
   }
-  #tmi-section .col-md-6{
+  #mobilecrane-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  #boom-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  #forklift-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  #wheel-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
