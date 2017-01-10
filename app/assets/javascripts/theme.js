@@ -213,7 +213,7 @@ $('#contact-form').bootstrapValidator({
             validating: 'glyphicon glyphicon-refresh'
         },
         fields: {
-            Name: {
+            name: {
                 validators: {
                     notEmpty: {
                         message: 'The Name is required and cannot be empty'
@@ -230,7 +230,7 @@ $('#contact-form').bootstrapValidator({
                     }
                 }
             },
-            Message: {
+            content: {
                 validators: {
                     notEmpty: {
                         message: 'The Message is required and cannot be empty'
