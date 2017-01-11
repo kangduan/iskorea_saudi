@@ -1204,7 +1204,7 @@ p.subtitle {
 	line-height: 34px;
 	text-align: center;
 	text-decoration: none;
-	z-index: 9999;
+	z-index: 9990;
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
@@ -2004,4 +2004,8 @@ p.footer {
 .form-control-feedback {
 line-height: 50px;
 top: 0px;
+}
+/*modal front*/
+.modal {
+	z-index: 9999;
 }
