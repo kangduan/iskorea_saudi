@@ -166,8 +166,12 @@ $('#filters').on( 'click', 'a', function() {
 });
 
 });
-
-
+// slide image time interval///
+$(function() {
+$('#Carousel').carousel({
+  interval: 7000
+});
+});
 /////////////////////////
 // Scroll to top button
 /////////////////////////
